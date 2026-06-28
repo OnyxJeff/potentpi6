@@ -36,18 +36,18 @@ pp6-dashpi/
 
 ---
 
-## 🖥️ Installation
-- Install Git
-```bash
-sudo apt install git -y
-```
+## 📝 Preparation
 
-- Download repo
-```bash
-cd
-git clone https://github.com/OnyxJeff/pp6-dashpi.git
-```
+  - Install GIT (app used to download this repo onto your device)
+  ```bash
+  sudo apt install git -y
+  ```
 
+  - Download repo
+  ```bash
+  cd
+  git clone https://github.com/OnyxJeff/pp6-dashpi.git
+  ```
 ---
 
 ## ⚠️ Updating the OS
